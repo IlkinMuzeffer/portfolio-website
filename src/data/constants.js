@@ -14,7 +14,9 @@ export const projects = [
         title: "Dünya Saatları",
         description: "React və API ilə müxtəlif ölkələrin cari vaxtını göstərən interaktiv panel",
         technologies: ["React", "JavaScript", "CSS", "API"],
-        gradient: "from-blue-400 to-cyan-600"
+        gradient: "from-blue-400 to-cyan-600",
+        liveLink: "https://world-clocks-for-me.netlify.app/",
+        githublink: "https://github.com/IlkinMuzeffer/world-clocks"
     },
     {
         title: "Weather Dashboard",
