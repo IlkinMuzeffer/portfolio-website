@@ -22,7 +22,9 @@ export const projects = [
         title: "Weather Dashboard",
         description: "Next.js və API inteqrasiyası ilə hava durumu dashboard-u",
         technologies: ["Next.js", "JavaScript", "CSS"],
-        gradient: "from-blue-400 to-cyan-600"
+        gradient: "from-blue-400 to-cyan-600",
+        liveLink: "https://azerbaijan-weather.netlify.app/",
+        githublink: "https://github.com/IlkinMuzeffer/azerbaijan-weather"
     },
     {
         title: "Task Management App",
