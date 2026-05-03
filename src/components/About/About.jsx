@@ -1,4 +1,3 @@
-import React from 'react';
 import ProjectCard from '../common/ProjectCard';
 import { skills, projects } from '../../data/constants';
 

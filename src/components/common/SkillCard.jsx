@@ -1,5 +1,3 @@
-import React from 'react';
-
 const SkillCard = ({ skill, index }) => {
     const Icon = skill.icon;
 

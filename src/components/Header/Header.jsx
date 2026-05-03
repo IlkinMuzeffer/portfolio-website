@@ -1,4 +1,3 @@
-import React from 'react';
 import { Menu, X } from 'lucide-react';
 import { navItems } from '../../data/constants';
 
@@ -11,7 +10,7 @@ const Header = ({ isMenuOpen, setIsMenuOpen, activeSection, scrollToSection }) =
                         onClick={() => scrollToSection('home')}
                         className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent cursor-pointer hover:scale-105 transition-transform"
                     >
-                        Müzəffər İlkin
+                        Müzəffərli İlkin
                     </div>
                     <div className="hidden md:flex space-x-8">
                         {navItems.map((item) => (

@@ -20,8 +20,8 @@ export const projects = [
     },
     {
         title: "Weather Dashboard",
-        description: "Next.js və API inteqrasiyası ilə hava durumu dashboard-u",
-        technologies: ["Next.js", "JavaScript", "CSS"],
+        description: "Vite və API inteqrasiyası ilə hava durumu dashboard-u",
+        technologies: ["Vite", "JavaScript", "CSS", "API"],
         gradient: "from-blue-400 to-cyan-600",
         liveLink: "https://azerbaijan-weather.netlify.app/",
         githublink: "https://github.com/IlkinMuzeffer/azerbaijan-weather"
@@ -46,6 +46,6 @@ export const contactInfo = {
 };
 
 export const socialLinks = [
-    { icon: Github, href: '#', title: 'GitHub' },
+    { icon: Github, href: 'https://github.com/IlkinMuzefferli', title: 'GitHub' },
     { icon: Linkedin, href: '#', title: 'LinkedIn' }
 ];
